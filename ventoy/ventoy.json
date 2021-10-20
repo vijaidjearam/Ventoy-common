@@ -1,0 +1,32 @@
+{
+    "control": [
+        { "VTOY_DEFAULT_MENU_MODE": "0" },
+        { "VTOY_MAX_SEARCH_LEVEL": "0" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/ISO" },  
+        { "VTOY_DEFAULT_IMAGE": "/ISO/clonezilla-live-2.7.3-19-amd64.iso" },   
+        { "VTOY_DEFAULT_KBD_LAYOUT": "FRENCH"}  
+    ],    
+     "auto_install": [
+        {
+            "image": "/ISO/Windows27082021.iso",
+            "template": [
+                "/ventoy/script/Autounattend-WinEdu.xml",
+                "/ventoy/script/Autounattend-WinPro.xml"
+            ],
+            "autosel": 2
+        },
+        {
+            "image": "/ISO/Windows21H1.iso",
+            "template": [
+                "/ventoy/script/Autounattend-WinEdu.xml",
+                "/ventoy/script/Autounattend-WinPro.xml"
+            ]
+        }
+    ],
+     "persistence": [
+        {
+            "image": "/ISO/krd.iso",
+            "backend": "/persistence/kaspersky.dat"
+        }
+    ]
+}
