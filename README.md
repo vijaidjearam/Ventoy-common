@@ -3,7 +3,7 @@
   * Unzip the downloaded ventoy file and launch Ventoy2Disk.exe.
   * Follow the onscreen instructions and prepare your usb-drive accordingly.
   * After installation copy the contents of this repository to the root of the usb-drive.
-  * Download and add your .iso files to ISO folder
+  * Download and place your .iso files to ISO folder
   * The name of the .iso file is very important and should correspond in the ventoy.json file in ventoy directory.
 ![image](https://user-images.githubusercontent.com/1507737/138076286-dd5f0d52-8603-4a28-8053-6601447ea7d8.png)
   * Thats it...:wink: 
