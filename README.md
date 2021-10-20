@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/1507737/138076286-dd5f0d52-8603-4a28-8053-6601447ea7d8.png)
   * Thats it...:wink: 
   * The powershell script that drives the customisation of windows is downloaded during windows install and launched during first logon.
-![image](https://user-images.githubusercontent.com/1507737/138085597-1647d998-54de-4ba3-ad75-d9959fa37b68.png)
+![image](https://user-images.githubusercontent.com/1507737/138085973-55559b56-0248-4335-9516-e731e77567ed.png)
 ![image](https://user-images.githubusercontent.com/1507737/138085724-7f606138-9402-4ef1-a71f-b0d209ea2e64.png)
   * :imp: After windows installation, the custom script will update BIOS firmware and settings. So make sure you clear BIOS password.
   * Boot from the Usb-drive,select the .iso and then the appropriate answerfile to install.
