@@ -8,6 +8,7 @@
   * ![image](https://user-images.githubusercontent.com/1507737/138069626-8613b1b8-cdd3-43c5-a24e-b81311717765.png)
   * Thats it...:wink: 
   * Boot from the Usb-drive and select the appropriate answerfile to install.
+  * :imp: The custom script will update bios firmware and settings, so make sure you have not set any BIOS password.
   
 
 
