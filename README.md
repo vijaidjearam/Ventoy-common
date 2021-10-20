@@ -1,4 +1,4 @@
-# Prepare custom USB for windows Installation
+# Prepare bootable USB for custom windows Installation
   * Download the latest version of Ventoy from [here](https://github.com/ventoy/Ventoy/releases).
   * Unzip the downloaded ventoy file and launch Ventoy2Disk.exe.
   * Follow the onscreen instructions and prepare your usb-drive accordingly.
