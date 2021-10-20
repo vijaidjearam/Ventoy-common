@@ -6,7 +6,8 @@
   * Download and add your ISO to ISO folder
   * The name of the ISO is very import and should correspond in the ventoy.json file in ventoy directory.
   * ![image](https://user-images.githubusercontent.com/1507737/138069626-8613b1b8-cdd3-43c5-a24e-b81311717765.png)
-  * Thats it...:wink:
+  * Thats it...:wink: 
+  * Boot from the Usb-drive and select the appropriate answerfile to install.
   
 
 
