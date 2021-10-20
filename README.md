@@ -4,7 +4,7 @@
   * Follow the onscreen instruction and prepare your usb-drive accordingly.
   * After installation copy the contents of this repository to the root of the usb-drive.
   * Download and add your .iso files to ISO folder
-  * The name of the .iso file is very import and should correspond in the ventoy.json file in ventoy directory.
+  * The name of the .iso file is very important and should correspond in the ventoy.json file in ventoy directory.
   ![image](https://user-images.githubusercontent.com/1507737/138069626-8613b1b8-cdd3-43c5-a24e-b81311717765.png)
   * Thats it...:wink: 
   * :imp: After windows installation, the custom script will update BIOS firmware and settings. So make sure you have not set any BIOS password.
