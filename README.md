@@ -1,7 +1,7 @@
 # Windows Install Using Custom Answer file
   * Download the latest version of Ventoy from [here](https://github.com/ventoy/Ventoy/releases).
   * Unzip the downloaded ventoy file and launch Ventoy2Disk.exe.
-  * Follow the onscreen instruction and prepare your usb-drive accordingly.
+  * Follow the onscreen instructions and prepare your usb-drive accordingly.
   * After installation copy the contents of this repository to the root of the usb-drive.
   * Download and add your .iso files to ISO folder
   * The name of the .iso file is very important and should correspond in the ventoy.json file in ventoy directory.
