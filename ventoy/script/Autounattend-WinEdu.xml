@@ -104,7 +104,7 @@ Notes: This is a test file for win10 install
 				<ProductKey>
 					<!-- Do not uncomment the Key element if you are using trial ISOs -->
 					<!-- You must uncomment the Key element (and optionally insert your own key) if you are using retail or volume license ISOs -->
-					<Key></Key>
+					<Key>NW6C2-QMPVW-D7KKK-3GKT6-VCFB2</Key>
 					<WillShowUI>Never</WillShowUI>
 				</ProductKey>
 				<AcceptEula>true</AcceptEula>
@@ -145,7 +145,7 @@ Notes: This is a test file for win10 install
             <RunSynchronous> 
             	<RunSynchronousCommand wcm:action="add">
           			<Order>1</Order>
-          			<Path>powershell -NoLogo -Command "(new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/vijaidjearam/startupscript/master/registryrunonce.ps1', 'c:\windows\temp\header.ps1')"</Path>
+          			<Path>powershell -NoLogo -Command &quot;(new-object System.Net.WebClient).DownloadFile(&apos;https://raw.githubusercontent.com/vijaidjearam/startupscript/master/registryrunonce.ps1&apos;, &apos;c:\windows\temp\header.ps1&apos;)&quot;</Path>
         		</RunSynchronousCommand>    
         	<!--	
 	    		<RunSynchronousCommand wcm:action="add">
@@ -201,7 +201,7 @@ Notes: This is a test file for win10 install
                     <Order>1</Order>
                     <Description>Launching customisation script</Description>
                     <RequiresUserInput>false</RequiresUserInput>
-                    <CommandLine>cmd /c powershell.exe -noexit -ExecutionPolicy Bypass "& "c:\windows\temp\header.ps1""</CommandLine>
+                    <CommandLine>cmd /c powershell.exe -noexit -ExecutionPolicy Bypass &quot;&amp; &quot;c:\windows\temp\header.ps1&quot;&quot;</CommandLine>
                 </SynchronousCommand>
 			</FirstLogonCommands>
 			<TimeZone>Romance Standard Time</TimeZone>
