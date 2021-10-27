@@ -89,7 +89,7 @@ Notes: This is a test file for win10 install
 					<InstallFrom>
 						<MetaData wcm:action="add">
 						<!-- The index value defines which version of windows ex: 4 - Education ,6 - Professional -->
-						<Value>4</Value>
+						<Value>6</Value>
 						<Key>/IMAGE/INDEX</Key>
 						</MetaData>
 					</InstallFrom>
