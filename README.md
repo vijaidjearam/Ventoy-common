@@ -11,21 +11,21 @@
  ![image](https://user-images.githubusercontent.com/1507737/139078177-02a1f6dd-95f5-46f6-9f28-8170f50db9f0.png)
   * To download drivers 
 
-      1.Go to [www.dell.com/support](https://www.dell.com/support/home/fr-fr).
+      1. Go to [www.dell.com/support](https://www.dell.com/support/home/fr-fr).
 
-      2.Enter Dell Service Tag, Dell EMC Product ID, or Model.
+      2. Enter Dell Service Tag, Dell EMC Product ID, or Model.
 
-      3.Click Drivers & Downloads.
+      3. Click Drivers & Downloads.
 
-      4.From the Operating system drop-down list, select the operating system.
+      4. From the Operating system drop-down list, select the operating system.
 
-      5.From the Category drop-down list, select **Systems Management**.
+      5. From the Category drop-down list, select **Systems Management**.
 
-      6.Click **Dell Command Deploy Driver Pack** or Dell Command Deploy WinPE Driver Pack.
+      6. Click **Dell Command Deploy Driver Pack** or Dell Command Deploy WinPE Driver Pack.
 
-      7.Deploy Driver Pack contains the drivers in the form of .CAB files  -> extract the file using 7zip 
+      7. Deploy Driver Pack contains the drivers in the form of .CAB files  -> extract the file using 7zip 
 
-      8.You can also visit this [link](https://www.dell.com/support/kbdoc/en-us/000124139/dell-command-deploy-driver-packs-for-enterprise-client-os-deployment) to download Driver Pack
+      8. You can also visit this [link](https://www.dell.com/support/kbdoc/en-us/000124139/dell-command-deploy-driver-packs-for-enterprise-client-os-deployment) to download Driver Pack
 
   * The powershell script that drives the customisation of windows is downloaded during windows install and launched during first logon.
 ![image](https://user-images.githubusercontent.com/1507737/138085973-55559b56-0248-4335-9516-e731e77567ed.png)
