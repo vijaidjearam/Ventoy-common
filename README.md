@@ -10,7 +10,7 @@
   * To inject drivers to the windows, you can manually download the drivers and place it in the *drivers* folder.
  ![image](https://user-images.githubusercontent.com/1507737/139078177-02a1f6dd-95f5-46f6-9f28-8170f50db9f0.png)
   * To download drivers 
-      1. Go to [www.dell.com/support](www.dell.com/support).
+      1. Go to [www.dell.com/support](https://www.dell.com/support/home/fr-fr).
       2. Enter Dell Service Tag, Dell EMC Product ID, or Model.
       3. Click Drivers & Downloads.
       4. From the Operating system drop-down list, select the operating system.
