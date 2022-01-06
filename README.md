@@ -14,7 +14,7 @@
 ![image](https://user-images.githubusercontent.com/1507737/138086160-f1f29120-ff40-47fd-9789-25e718813627.png)
   * :imp: After windows installation, the custom script will update BIOS firmware and settings. So make sure the BIOS password is cleared before you start the process.
   * Boot from the Usb-drive,select the .iso and then the appropriate answerfile to install.
-
+Test
 
   
   
